@@ -6,6 +6,8 @@
 
 **PLATFORM**: xv6 —— a simple Unix-like operation system for modern teaching
 
+**GITHUB**: https://github.com/evo2233/OS_xv6_Lab_2024SummerTongji
+
 
 
 ## Before Labs : Environment Construction
